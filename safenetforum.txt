@@ -1,5 +1,5 @@
 ! Title: safenetforum.org stickers
-! Updated: 2020-08-09
+! Updated: 2020-08-10
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/f/e/fe3c2dda876f988e15b982d8e2150cccb7d29ef4.png$image
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/a/d/ad23b40b80e1e11155dcec9ac64ae8a2dd1547d7.png$image
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/9/3/93e738f2f88f72b2b96f3cbc4e2f957fda66f432.png$image
@@ -41,3 +41,4 @@ https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/busine
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/6/3/63f560ecba5b61de65570ae9fd0b9b45a425b5cd.png$image
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/d/2/d2b5704344ead3a1b4be26c6bbd0e4ab4165e4dd.png
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/9/7/970cd3734d0612f673e1dc5687fb54fdf199dfd6.png
+||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/b/9/b95949cc0ef51eaf27776a406f5b1d29ee54a29d.png
